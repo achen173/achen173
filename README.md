@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on building cool projects
+- 📫 How to reach me: alan.chen173@gmail.com
+
 <!--
 **achen173/achen173** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
